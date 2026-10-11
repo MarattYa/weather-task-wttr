@@ -1,0 +1,13 @@
+Moscow, Russia +11 °C
+Khabarovsk, Russia +6 °C
+Saint-Petersburg, Russia +9 °C
+Vienna, Austria +15 °C
+Izhevsk, Russia +7 °C
+Perm, Russia +9 °C
+NhaTrang, Vietnam +25 °C
+Villach, Austria +9 °C
+
+Statistics by country:
+Russia — cities: 5; avg: +8.4 °C; min: +6 °C; max: +11 °C
+Austria — cities: 2; avg: +12 °C; min: +9 °C; max: +15 °C
+Vietnam — cities: 1; avg: +25 °C; min: +25 °C; max: +25 °C
